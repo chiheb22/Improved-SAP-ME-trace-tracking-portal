@@ -51,6 +51,7 @@ The application allows users to:
 - Automatically send daily emails to users with trace details.
 - Authenticate using LDAP technology.
 
+![Login Interface](images/LDAP.jpeg)
 ---
 
 ## Needs Analysis
@@ -83,16 +84,16 @@ The application follows a three-tier architecture:
 ### Behavioral View
 
 - **UML Diagrams**: Used for visualizing system design.
-Use case diagram
+### Use case diagram
 ![Login Interface](images/use%20case%20diagram%20.jpeg)
 
-class diagram
+### class diagram
 ![Login Interface](images/class%20diagram.jpeg)
 
-Sequence diagram (authentication)
+### Sequence diagram (authentication)
 ![Login Interface](images/sequence%20diag.jpeg)
 
-Sequence diagram (Seneral)
+### Sequence diagram (General)
 ![Login Interface](images/sequence%20diag%20general.jpeg)
 
 ---
@@ -127,8 +128,6 @@ Sequence diagram (Seneral)
 #### Home Page
 ![Home Page](images/cap%20home.jpeg)
 
-#### Home Page
-![Home Page](images/cap%20home.jpeg)
 
 #### Search by Operation
 ![Search by Operation](images/cap%20search%20.jpeg)
